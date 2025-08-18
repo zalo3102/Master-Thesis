@@ -4,4 +4,9 @@ This repository was created with the aim of facilitating access to the codes and
 ## Data Sources
 In the Master's Thesis, two distinct problems were studied, each characterized by its own database:
 - The file output_v2.csv corresponds to the dataset for the first problem (water molecule). 
-- The file OCM_dataset contains the dataset for the second problem (OCM reactions).
+- The file OCM_dataset.csv contains the dataset for the second problem (OCM reactions).
+## Contents
+- Data acquisition and preprocessing. 
+- Characterization and analysis of the datasets through graphical data visualization. 
+- Creation and training of the considered models in each case.
+
