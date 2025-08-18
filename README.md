@@ -9,4 +9,4 @@ In the Master's Thesis, two distinct problems were studied, each characterized b
 - Data acquisition and preprocessing. 
 - Characterization and analysis of the datasets through graphical data visualization. 
 - Creation and training of the considered models in each case.
-
+CODIGO_TFM.ipynb is intended for Google Colab—make sure to adjust the .csv file paths for proper execution.
