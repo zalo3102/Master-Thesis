@@ -19,7 +19,7 @@ The study includes:
 
 - Benchmarking against established regression models like Random Forests and XGBoost.
 
-- A scalability study on the large catalytic dataset, analyzing how training and prediction time grow with dataset size for Full GPs versus SVGPs, highlighting SVGPs’ computational advantages on large datasets.
+- A scalability study on the large catalytic dataset, analyzing how combined training and prediction time grow with dataset size for Full GPs versus SVGPs, highlighting SVGPs’ computational advantages on large datasets.
 
 - An analysis of SVGP inducing points initialization, comparing random initialization versus using K-Means for better model performance.
 
