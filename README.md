@@ -9,7 +9,7 @@ This repository contains the code and experiments from my Master’s thesis on G
 
 - OCM_dataset.csv – Dataset for the second problem: large-scale methane oxidative coupling (OCM) reactions.
 
-- docs – Full Master’s thesis in PDF format, including methodology, theoretical background, results, figures, and detailed analyses.
+- docs/ – Folder containing the full Master’s thesis in PDF format, including methodology, theoretical background, results, figures, and detailed analyses.
 ## Contents
 The study includes:
 
