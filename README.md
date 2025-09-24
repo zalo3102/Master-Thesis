@@ -16,4 +16,4 @@ The study includes:
 
 - A scalability study on the large catalytic dataset, analyzing how training and prediction time grow with dataset size for Full GPs versus SVGPs, highlighting SVGPs’ computational advantages on large datasets.
 
-CODIGO_TFM.ipynb is intended for Google Colab—make sure to adjust the .csv file paths for proper execution.
+Note: CODIGO_TFM.ipynb contains the main code and is intended for Google Colab—make sure to adjust the .csv file paths for proper execution.
