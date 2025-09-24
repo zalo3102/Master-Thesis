@@ -13,7 +13,7 @@ This repository contains the code and experiments from my Master’s thesis on G
 ## Contents
 The study includes:
 
-- Implementation of Full and Sparse GPs using PyTorch and GPyTorch.
+- Implementation of Full and Sparse Variational GPs using PyTorch and GPyTorch.
 
 - Evaluation of kernel functions, hyperparameter optimization, and robustness under data scarcity.
 
