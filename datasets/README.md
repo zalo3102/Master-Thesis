@@ -8,7 +8,7 @@ This folder contains the raw datasets used in the project. Each file corresponds
 
 - **Asymmetric stretching coordinate (ν′)**
 
-These parameters define the molecular deformation space and provide the structural information used for the corresponding computational analysis.
+These parameters define the molecular deformation space and allow the calculation of the target variables in the dataset (energy and dipole moments) using the Partridge–Schwenke model.
 
 2. OCM_dataset.xlsx - Dataset for the second problem, focused on oxidative coupling of methane (OCM) reactions.
-This file includes reaction conditions, catalyst information, performance metrics, and other variables relevant to analyzing OCM reaction behavior.
+This file includes reaction conditions, catalyst information, performance metrics, and other variables relevant to analyzing OCM reaction behavior. In this case, the target variable was the OCM reaction yield.
