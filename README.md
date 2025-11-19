@@ -5,7 +5,7 @@ This repository contains the code and experiments from my Master’s thesis on G
 
 - CODIGO_TFM.ipynb – Main notebook containing the primary code used to obtain the results. Intended for Google Colab; adjust .csv file paths as needed.
 
-- datasets/ - Folder containing the raw datasets used in the project.
+- datasets/ – Folder containing the raw datasets used in the project.
 
 - docs/ – Folder containing the full Master’s thesis in PDF format, including methodology, theoretical background, results, figures, and detailed analyses.
 ## Contents
