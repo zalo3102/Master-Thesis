@@ -17,4 +17,4 @@ V. L. Deringer, A. P. Bartók, N. Bernstein, D. M.Wilkins, M. Ceriotti, and G. C
 This file includes reaction conditions, catalyst information, performance metrics, and other variables relevant to analyzing OCM reaction behavior. In this case, the target variable was the OCM reaction yield.
 
 **Reference:**
-S. Mine, M. Takao, T. Yamaguchi, T. Toyao, Z. Maeno, S. Hakim Siddiki, S. Takakusagi, K.-i. Shimizu, and I. Takigawa, Analysis of updated literature data up to 2019 on the oxidative coupling of methane using an extrapolative machine-learning method to identify novel catalysts. chemcatchem. 2021; 13 (16): 3636-3655, DOI: https://doi. org/10.1002/cctc 202100495.
+S. Mine, M. Takao, T. Yamaguchi, T. Toyao, Z. Maeno, S. Hakim Siddiki, S. Takakusagi, K.-i. Shimizu, and I. Takigawa, Analysis of updated literature data up to 2019 on the oxidative coupling of methane using an extrapolative machine-learning method to identify novel catalysts. chemcatchem. 2021; 13 (16): 3636-3655, DOI: https://doi.org/10.1002/cctc 202100495.
