@@ -1,7 +1,7 @@
-## datasets
+# datasets
 This folder contains the raw datasets used in the project. Each file corresponds to a different problem domain and serves as the primary data source for the associated analyses.
 
-# Files
+## Files
 1. output_v2.csv - Dataset for the first problem, describing a deformed water molecule through two internal degrees of freedom:
 
 - **Bending angle (ω)**
